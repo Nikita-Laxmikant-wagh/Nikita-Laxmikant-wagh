@@ -57,3 +57,14 @@
     Learning every day and embracing challenges to become a skilled developer.
   </p>
 </div>
+
+<div align="center" style="background-color: #333; color: white; padding: 15px; border-radius: 10px; margin-top: 40px;">
+  <h3>📩 Let's Connect</h3>
+  <p>Feel free to reach out for collaborations, discussions, or just a tech chat!</p>
+  <p>
+    <a href="https://linkedin.com/in/nikita-wagh-717717275" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+  </p>
+  <p>🚀 Keep Coding, Keep Innovating!</p>
+</div>
