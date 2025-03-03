@@ -13,8 +13,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Made_with-❤️-red" alt="Made with Love" />
   <img src="https://img.shields.io/badge/HTML-CSS-orange?logo=html5&logoColor=white" alt="HTML" />
-  <img src="https://img.shields.io/badge/JavaScript-Yellow-FFD700?logo=javascript&logoColor=white" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-Blue-61DAFB?logo=react&logoColor=white" alt="React" />
+  <img src="https://img.shields.io/badge/JavaScript-FFD700?logo=javascript&logoColor=white" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white" alt="React" />
 </p>
 
 <p align="center">
