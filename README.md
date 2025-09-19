@@ -6,7 +6,7 @@ Theme: Pastel, Kawaii-Tech
 <div align="center">
   
 <img width="1632" height="432" alt="Gemini_Generated_Image_eu3qfueu3qfueu3q" src="https://github.com/user-attachments/assets/f0e1d853-cf9e-4dc9-ba37-30b2e3bd5086" />
-<img width="1632" height="432" alt="image" src="https://github.com/user-attachments/assets/aed3331b-d34b-4eac-8001-ba7577f7381b" />
+
 
   <br><br>
   
@@ -60,6 +60,7 @@ Theme: Pastel, Kawaii-Tech
 <div align="center">
   
 🌸 *“Turning Data into Dreams, One Model at a Time”* 🌸  
-✨ Made with love & lavender ✨  
+  
+<img width="1024" height="402" alt="image" src="https://github.com/user-attachments/assets/97c01559-5fee-45aa-a470-c474af26ae0a" />
 
 </div>
