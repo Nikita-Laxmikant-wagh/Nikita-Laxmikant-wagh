@@ -17,14 +17,14 @@ Theme: Pastel, Kawaii-Tech
   <p>・┆✦ʚ♡ɞ✦ ┆・・┆✦ʚ♡ɞ✦ ┆・・┆✦ʚ♡ɞ✦ ┆・</p>
 </div>
 
----
+
 
 ## 🌸 About Me
 💖 Tech explorer with a heart for algorithms and a mind for data.  
 💖 I see AI as a storybook — every dataset has a tale, and I love translating it.  
 💖 My goal: build **smart, responsible, and ethical AI solutions**.  
 
----
+
 
 ## 🎀 Tech Stack
 <div align="center">
@@ -38,21 +38,21 @@ Theme: Pastel, Kawaii-Tech
 
 </div>
 
----
+
 
 ## 🌷 Featured Projects
 ✨ **AI Storyteller** – A model that generates creative short stories.  
 ✨ **Dream Vision** – Image recognition with a magical pastel UI.  
 ✨ **CareAI** – Ethical AI model for responsible decision-making.  
 
----
+
 
 ## 🍓 Fun Facts
 🌸 I love pastel aesthetics & kawaii vibes ✧  
 🌸 Coffee + coding = happiness ☕💻  
 🌸 I believe AI can be both magical and meaningful ✨  
 
----
+
 
 ## 💌 Let’s Connect
 <div align="center">
@@ -63,7 +63,6 @@ Theme: Pastel, Kawaii-Tech
 
 </div>
 
----
 
 <div align="center">
   
