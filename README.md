@@ -61,6 +61,7 @@ Theme: Pastel, Kawaii-Tech
   
 🌸 *“Turning Data into Dreams, One Model at a Time”* 🌸  
   
-<img width="1024" height="402" alt="image" src="https://github.com/user-attachments/assets/97c01559-5fee-45aa-a470-c474af26ae0a" />
+<img width="1632" height="283" alt="Gemini_Generated_Image_6yj4k76yj4k76yj4" src="https://github.com/user-attachments/assets/faf9b46c-a126-43fc-9e12-bd9c1e053f71" />
+
 
 </div>
