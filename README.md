@@ -5,7 +5,8 @@ Palette: Lavender, Soft Pink, Mint, and Cream
 -->
 
 <div align="center">
-<img width="1632" height="449" alt="Gemini_Generated_Image_usfgousfgousfgou" src="https://github.com/user-attachments/assets/e2ace56c-7010-448c-8bc3-c84c9549407d" />
+<img width="1024" height="402" alt="image" src="https://github.com/user-attachments/assets/90660c39-bac4-4094-9b13-e69ed74d88ee" />
+
 </div>
 
 <div align="center" style="padding: 20px; border-radius: 15px;">
