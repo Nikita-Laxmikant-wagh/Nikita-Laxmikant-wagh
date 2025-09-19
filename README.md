@@ -27,28 +27,6 @@ Palette: Lavender, Soft Pink, Mint, and Cream
 <p>I'm on a magical journey through the world of Artificial Intelligence, focusing on crafting and understanding intelligent models.</p>
 </div>
 
-<table align="center" style="width:100%; border: none; margin-top: 20px;">
-<tr style="border: none;">
-<td align="center" width="50%" style="padding: 10px; background-color: #fcefee; border-radius: 15px; border: 2px solid #f5c0c0;">
-<h3 style="color: #d98695;">🌸 Machine Learning Magic 🪄</h3>
-<p>Building predictive models & diving deep into neural networks.</p>
-<p>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Python-3776AB%3Fstyle%3Dflat-square%26logo%3Dpython%26logoColor%3Dwhite" alt="Python" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/TensorFlow-FF6F00%3Fstyle%3Dflat-square%26logo%3Dtensorflow%26logoColor%3Dwhite" alt="TensorFlow" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Scikit--learn-F7931E%3Fstyle%3Dflat-square%26logo%3Dscikit-learn%26logoColor%3Dwhite" alt="Scikit-learn" />
-</p>
-</td>
-<td align="center" width="50%" style="padding: 10px; background-color: #e6f7f4; border-radius: 15px; border: 2px solid #b7e1d8;">
-<h3 style="color: #6daea3;">🌿 Data Science Spells 🔬</h3>
-<p>Exploring datasets to uncover hidden stories and insights.</p>
-<p>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Pandas-150458%3Fstyle%3Dflat-square%26logo%3Dpandas%26logoColor%3Dwhite" alt="Pandas" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/NumPy-013243%3Fstyle%3Dflat-square%26logo%3Dnumpy%26logoColor%3Dwhite" alt="NumPy" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Matplotlib-313131%3Fstyle%3Dflat-square%26logo%3Dmatplotlib%26logoColor%3Dwhite" alt="Matplotlib" />
-</p>
-</td>
-</tr>
-</table>
 
 <div align="center">
 <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dnikita-wagh%26show_icons%3Dtrue%26theme%3Dcatppuccin_latte%26hide_border%3Dtrue%26include_all_commits%3Dtrue%26count_private%3Dtrue" alt="Nikita's GitHub Stats" />
