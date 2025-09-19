@@ -9,9 +9,7 @@ Palette: Lavender, Soft Pink, Mint, and Cream
 </div>
 
 <div align="center" style="padding: 20px; border-radius: 15px;">
-<h1 align="center">
-<img src="https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com/%3Ffont%3DSacramento%26size%3D50%26center%3Dtrue%26vCenter%3Dtrue%26width%3D600%26height%3D70%26duration%3D4000%26color%3D9479AF%26lines%3DHey%2Bthere!%2BI%27m%2BNikita%2BWagh+✨" />
-</h1>
+
 <h3 align="center">
 <i>A passionate AI & Machine Learning enthusiast turning data into dreams!</i>
 </h3>
