@@ -29,7 +29,7 @@ Palette: Lavender, Soft Pink, Mint, and Cream
 
 
 <div align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dnikita-wagh%26show_icons%3Dtrue%26theme%3Dcatppuccin_latte%26hide_border%3Dtrue%26include_all_commits%3Dtrue%26count_private%3Dtrue" alt="Nikita's GitHub Stats" />
+
 </div>
 
 <div align="center" style="margin-top: 30px;">
@@ -39,17 +39,3 @@ I'm a tech explorer with a heart for algorithms and a mind for data. For me, AI 
 </p>
 </div>
 
-<div align="center" style="background-color: #333; color: white; padding: 15px; border-radius: 10px; margin-top: 40px;">
-<h3>💌 Let's Be Friends!</h3>
-<p>Feel free to flutter by my inbox for a chat about tech, data, or anything in between!</p>
-<p>
-<a href="https://linkedin.com/in/nikita-wagh-717717275" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-</p>
-<p><i>Keep sparkling & keep coding!</i> ✨</p>
-</div>
-
-<div align="center">
-<img src="https://www.google.com/search?q=https://i.pinimg.com/originals/c1/9f/22/c19f222d37651a56c70ac985834224a7.gif" width="100%" alt="Pastel pixel banner">
-</div>
