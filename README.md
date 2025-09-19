@@ -5,7 +5,7 @@ Palette: Lavender, Soft Pink, Mint, and Cream
 -->
 
 <div align="center">
-<img src="https://www.google.com/search?q=https://i.pinimg.com/originals/c1/9f/22/c19f222d37651a56c70ac985834224a7.gif" width="100%" alt="Pastel pixel banner">
+<img width="1024" height="402" alt="image" src="https://github.com/user-attachments/assets/52a028ef-a6eb-40fc-b518-14fcabb1c36f" />
 </div>
 
 <div align="center" style="padding: 20px; border-radius: 15px;">
