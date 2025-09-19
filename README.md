@@ -15,9 +15,7 @@ Palette: Lavender, Soft Pink, Mint, and Cream
 </h3>
 </div>
 
-<p align="center">
-<img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3Dnikita-wagh%26label%3DProfile%2520Visitors%26color%3Dbda7d1%26style%3Dfor-the-badge" alt="Profile views" />
-</p>
+
 
 <div align="center">
 <br>
@@ -25,7 +23,7 @@ Palette: Lavender, Soft Pink, Mint, and Cream
 </div>
 
 <div align="center">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/✨_Currently_Brewing...-bda7d1?style=for-the-badge&logoColor=white" />
+
 <p>I'm on a magical journey through the world of Artificial Intelligence, focusing on crafting and understanding intelligent models.</p>
 </div>
 
