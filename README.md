@@ -55,7 +55,7 @@ Palette: Lavender, Soft Pink, Mint, and Cream
 </table>
 
 <div align="center">
-<img src="https://www.google.com/search?q=https://github.com/anuraghazra/github-readme-stats/blob/master/themes/catppuccin_latte.svg" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dnikita-wagh%26show_icons%3Dtrue%26theme%3Dcatppuccin_latte%26hide_border%3Dtrue%26include_all_commits%3Dtrue%26count_private%3Dtrue" alt="Nikita's GitHub Stats" />
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dnikita-wagh%26show_icons%3Dtrue%26theme%3Dcatppuccin_latte%26hide_border%3Dtrue%26include_all_commits%3Dtrue%26count_private%3Dtrue" alt="Nikita's GitHub Stats" />
 </div>
 
 <div align="center" style="margin-top: 30px;">
