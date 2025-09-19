@@ -47,13 +47,6 @@ Theme: Pastel, Kawaii-Tech
 
 
 
-## 🍓 Fun Facts
-🌸 I love pastel aesthetics & kawaii vibes ✧  
-🌸 Coffee + coding = happiness ☕💻  
-🌸 I believe AI can be both magical and meaningful ✨  
-
-
-
 ## 💌 Let’s Connect
 <div align="center">
 
