@@ -5,9 +5,8 @@ Theme: Pastel, Kawaii-Tech
 
 <div align="center">
   
-  <!-- Banner -->
-  <img src="https://github.com/user-attachments/assets/90660c39-bac4-4094-9b13-e69ed74d88ee" width="100%" alt="Nikita's Banner"/>
-  
+<img width="1632" height="432" alt="Gemini_Generated_Image_eu3qfueu3qfueu3q" src="https://github.com/user-attachments/assets/f0e1d853-cf9e-4dc9-ba37-30b2e3bd5086" />
+
   <br><br>
   
   <!-- Intro -->
